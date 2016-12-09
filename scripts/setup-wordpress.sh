@@ -7,6 +7,8 @@ echo '#######################################################'
 yum install -y git
 yum install -y vim
 
+exit 0
+
 git clone https://github.com/Sher-Chowdhury/wordpress-codingbee.git
 
 cd wordpress-codingbee/scripts
