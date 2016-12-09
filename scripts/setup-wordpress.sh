@@ -7,7 +7,7 @@ echo '#######################################################'
 yum install -y git
 yum install -y vim
 
-exit 0
+exit 0     # make a backup before commenting this out. 
 
 git clone https://github.com/Sher-Chowdhury/wordpress-codingbee.git
 
